@@ -267,6 +267,8 @@ strong {
     background: rgba(255, 255, 255, 0.1);
 }
 
+
+
 /* Sections */
 .section {
     padding: 100px 0;
@@ -354,6 +356,15 @@ strong {
     font-size: 0.85rem;
     color: #e2e8f0;
     border: 1px solid rgba(255,255,255,0.05);
+}
+
+.tech-tags li a {
+    text-decoration: none;
+}
+
+.tech-tags li a:hover { 
+      text-decoration: none;
+    opacity: 0.9;
 }
 
 /* Contact */
